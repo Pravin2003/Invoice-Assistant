@@ -23,14 +23,14 @@ The Invoice Assistant is a Flask-based web application designed to analyze and p
 1. **Clone the repository:**
 
     ```bash
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone `https://github.com/Pravin2003/Invoice-Assistant.git`,
+    cd Invoice-Assistant
     ```
 
 2. **Create and activate a virtual environment:**
 
     ```bash
-    python -m venv venv
+    python -m venv venv       # On MacOS
     source venv/bin/activate  # On Windows use `venv\Scripts\activate`
     ```
 
