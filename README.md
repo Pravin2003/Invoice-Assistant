@@ -23,7 +23,7 @@ The Invoice Assistant is a Flask-based web application designed to analyze and p
 1. **Clone the repository:**
 
     ```bash
-    git clone `https://github.com/Pravin2003/Invoice-Assistant.git`,
+    git clone `https://github.com/Pravin2003/Invoice-Assistant.git`
     cd Invoice-Assistant
     ```
 
