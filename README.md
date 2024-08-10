@@ -37,7 +37,7 @@ The Invoice Assistant is a Flask-based web application designed to analyze and p
 3. **Install the required Python libraries:**
 
     ```bash
-    pip install flask langchain_community langchain_google_genai google.generativeai
+    pip install pypdf chromadb flask langchain_community langchain_google_genai google.generativeai
     ```
 
 4. **Set up the Google API key:**
