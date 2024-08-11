@@ -1,3 +1,7 @@
 Flask==2.1.2
 langchain==0.1.5
 google-generativeai==1.0.0
+pypdf==3.10.1
+chromadb==0.4.7
+langchain_community==0.0.17
+langchain_google_genai==0.0.2
